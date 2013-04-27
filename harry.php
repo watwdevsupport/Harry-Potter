@@ -9,7 +9,7 @@ Plugin URI: http://wordpress.org/#
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words wrote most famously by J. K. Rowling: Harry Potter. When activated you will randomly see a qoute from <cite>Harry Potter</cite> in the upper right of your admin screen on every page.
 Author: Billy Leach
 Version: 1.5.1
-Author URI: http://aberforthsarmy.org
+Author URI: http://watwdevsupport.netau.net
 */
 
 function harry_potter_get_lines() {
